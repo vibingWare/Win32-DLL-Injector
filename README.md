@@ -9,6 +9,7 @@ https://user-images.githubusercontent.com/87759641/210108570-7caec863-5ef9-4889-
 
 FEATURES:
 - LoadLibraryA injection method.
+- Window title randomisation.
 - Simple logging system via the console, for debugging purposes.
 - Auto-Injection.
 
